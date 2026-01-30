@@ -1,4 +1,4 @@
-North American Bird Species Identification Part I
+North American Bird Species Identification
 
 A project training a ResNet50 model to recognize 50 different species of birds
 
