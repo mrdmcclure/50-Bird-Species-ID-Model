@@ -43,7 +43,7 @@ The learning rate was set at 0.001 and did not change over the course of the tra
 Google A100 GPU units were used to perform the training.  When not available, Google L4 GPU units were used.
 
 
-##Additional Code
+## Additional Code
 2 additional notebooks are included as described below:
 
 **Populate train and validation data**
